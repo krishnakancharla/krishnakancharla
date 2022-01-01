@@ -4,6 +4,8 @@
 <a href="https://www.linkedin.com/in/krishna-kancharla/" target="_blank" rel="nofollow"><img align="left" alt="Krishnaditya's LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/krishnakancharla" target="_blank" rel="nofollow"><img align="left" alt="Krishnaditya's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </div>
 
+<br/>
+<br/>
 I'm [Krishnaditya Kancharla](https://krishnakancharla.github.io/)
 
 ⚡ Languages: **Python3 | SQL | HTML | CSS |**
