@@ -1,4 +1,27 @@
-### Hi there 👋
+### Hello World! 👋
+
+<div align="center">
+<a href="https://www.linkedin.com/in/krishna-kancharla/" target="_blank" rel="nofollow"><img align="right" alt="Krishnaditya's LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/krishnakancharla" target="_blank" rel="nofollow"><img align="right" alt="Krishnaditya's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
+</div>
+
+I'm [Krishnaditya Kancharla](https://krishnakancharla.github.io/)
+
+⚡ Languages: **Python3 | SQL | HTML | CSS |**
+
+- 🔭 I’m currently working on  ** End-to-End Machine Learning Application Development**
+- 🌱 I’m currently Working with tech **AWS, Python, Tensorflow, CSS, Flask**
+- 🤔 I’m looking for help with Data Structures and Algorithms (Sigh! Aren't we all?) 😭
+- 💬 Ask me about anything, I am happy to help
+- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
+- 👨 Know more about me at [Medium](https://krishnakancharla.medium.com/) 
+- 🌐 Visit my :boom: [porfolio website](https://krishnkancharla.github.io/) for complete background and contact.
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/krishnakancharla" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
 
 <!--
 **krishnakancharla/krishnakancharla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
