@@ -35,7 +35,9 @@ Currently pursuing my Masters in Data Science at [University of Illinois at Urba
   <tbody>
     <tr>
       <td><b><a href="https://aws.amazon.com/">Machine Learning Engineer at Amazon Web Services</a> </b></td>
-      <td>End-to-End ML Pipeline Development</td>
+      <td><p>End-to-End ML Pipeline Development at AWS Premium Support</p>
+        <p>Technologies used: AWS EMR, SageMaker, Tensorflow, Python3</p>
+      </td>
       <td>November 2021 - July 2021</td>
     </tr>
   	<tr>
