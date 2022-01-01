@@ -17,13 +17,12 @@ Currently pursuing my Masters in Data Science at [University of Illinois at Urba
 - 🌱 I’m currently Working with tech **AWS, Python, Tensorflow, CSS, Flask**
 - 🤔 I’m looking for help with Data Structures and Algorithms (Sigh! Aren't we all?) 😭
 - 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - 👨 Know more about me at [Medium](https://krishnakancharla.medium.com/) 
 - 🌐 Visit my :boom: [porfolio website](https://krishnkancharla.github.io/) for complete background and contact.
 
 <!-- start work experience section -->
 <details>
-<summary><b> My Work Experience :point_right: </b></summary>
+<summary><b> Here's my Work Experience 👇: </b></summary>
 <table>
   <thead>
     <tr>
@@ -42,13 +41,14 @@ Currently pursuing my Masters in Data Science at [University of Illinois at Urba
     </tr>
   	<tr>
       <td><b><a href="https://aws.amazon.com/">DevOps Associate at Amazon Web Services</a> </b></td>
-      <td>Deploying Microservices in Containers, CI/CD Pipeline Development and Maintenance</td>
+      <td>Deploying Microservices in Containers, CI/CD Pipeline Development and Maintenance
+      <p>Technologies used: Jenkins, Kubernetes, Docker, Chef, AWS CodeDeploy</p></td>
       <td>July 2019 - Nov 2020</td>
     </tr>
     <tr>
       <td><b><a href="https://www.headstrait.com/">Data Science Intern at Headstrait Software</a> </b></td>
-      <td>Solving questions.</td>
-      <td>October 2020 - January 2021</td>
+      <td>Solving Cluster Analysis, Hypothesis Testing, Exploratory Data Analysis</td>
+      <td>December 2018 - February 2019</td>
     </tr>
   </tbody>
 </table>
