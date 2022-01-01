@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
-<div align="center">
-<a href="https://www.linkedin.com/in/krishna-kancharla/" target="_blank" rel="nofollow"><img align="right" alt="Krishnaditya's LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/krishnakancharla" target="_blank" rel="nofollow"><img align="right" alt="Krishnaditya's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
+<div align="left">
+<a href="https://www.linkedin.com/in/krishna-kancharla/" target="_blank" rel="nofollow"><img align="left" alt="Krishnaditya's LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/krishnakancharla" target="_blank" rel="nofollow"><img align="left" alt="Krishnaditya's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </div>
 
 I'm [Krishnaditya Kancharla](https://krishnakancharla.github.io/)
@@ -21,7 +21,7 @@ I'm [Krishnaditya Kancharla](https://krishnakancharla.github.io/)
   <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/krishnakancharla" />
 </p>
 
-<img src="stats.gif" width="90%"><br/><br/>
+
 
 <!--
 **krishnakancharla/krishnakancharla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
