@@ -6,7 +6,8 @@
 
 <br/>
 <br/>
-I am [Krishnaditya Kancharla](https://krishnakancharla.github.io/)
+
+I am [Krishnaditya Kancharla](https://abhishknads.me/)
 
 ⚡ Languages: **Python3 | SQL | HTML | CSS |**
 
