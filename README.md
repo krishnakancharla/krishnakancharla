@@ -15,7 +15,6 @@ Currently pursuing my Masters in Data Science at [University of Illinois at Urba
 
 - 🔭 I’m currently working on  **End-to-End Machine Learning Application Development**
 - 🌱 I’m currently Working with tech **AWS, Python, Tensorflow, CSS, Flask**
-- 🤔 I’m looking for help with Data Structures and Algorithms (Sigh! Aren't we all?) 😭
 - 💬 Ask me about anything, I am happy to help
 - 👨 Know more about me at [Medium](https://krishnakancharla.medium.com/) 
 - 🌐 Visit my :boom: [porfolio website](https://krishnkancharla.github.io/) for complete background and contact.
