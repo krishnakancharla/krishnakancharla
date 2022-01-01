@@ -35,20 +35,20 @@ Currently pursuing my Masters in Data Science at [University of Illinois at Urba
     <tr>
       <td><b><a href="https://aws.amazon.com/">Machine Learning Engineer at Amazon Web Services</a> </b></td>
       <td><p>End-to-End ML Pipeline Development at AWS Premium Support</p>
-        <p>Technologies used: **AWS EMR, SageMaker, Tensorflow, Python3**</p>
+        <p>**Technologies used: AWS EMR, SageMaker, Tensorflow, Python3**</p>
       </td>
       <td>November 2021 - July 2021</td>
     </tr>
   	<tr>
       <td><b><a href="https://aws.amazon.com/">DevOps Associate at Amazon Web Services</a> </b></td>
       <td>Deploying Microservices in Containers, CI/CD Pipeline Development and Maintenance
-      <p>Technologies used: **Jenkins, Kubernetes, Docker, Chef, AWS CodeDeploy**</p></td>
+      <p>**Technologies used: Jenkins, Kubernetes, Docker, Chef, AWS CodeDeploy**</p></td>
       <td>July 2019 - Nov 2020</td>
     </tr>
     <tr>
       <td><b><a href="https://www.headstrait.com/">Data Science Intern at Headstrait Software</a> </b></td>
       <td> Cluster Analysis, Hypothesis Testing, Exploratory Data Analysis
-      <p>Technologies used: **Python3, Kubernetes, Docker, Chef, AWS CodeDeploy**</p></td>
+      <p>**Technologies used: Python3, Kubernetes, Docker, Chef, AWS CodeDeploy**</p></td>
       <td>December 2018 - February 2019</td>
     </tr>
   </tbody>
