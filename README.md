@@ -7,9 +7,9 @@
 <br/>
 <br/>
 
-I am [Krishnaditya Kancharla](https://krishnakancharla.github.io/)
+I am [Krishnaditya Kancharla](https://krishnakancharla.github.io/), a passionate Machine Learning/Data Science Enthusiast. I am currently pursuing my Masters in Data Science at [University of Illinois at Urbana-Champaign](https://ischool.illinois.edu/visit)
 
-⚡ Languages: **Python3 | SQL | HTML | CSS |**
+⚡ Technologies I am proficient in: **Python3 | SQL | HTML | CSS | AWS | Docker | Jenkins | Kubernetes**
 
 - 🔭 I’m currently working on  **End-to-End Machine Learning Application Development**
 - 🌱 I’m currently Working with tech **AWS, Python, Tensorflow, CSS, Flask**
