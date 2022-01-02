@@ -19,9 +19,9 @@ Currently pursuing my Masters in Data Science at [University of Illinois at Urba
 - 👨 Know more about me at [Medium](https://krishnakancharla.medium.com/) 
 - 🌐 Visit my :boom: [porfolio website](https://krishnkancharla.github.io/) for complete background and contact.
 
-<!-- start work experience section -->
-<details>
-<summary><b> Click here for my Work Experience 👇: </b></summary>
+<!-- start work experience section
+<details> -->
+<b> Professional Experience: </b></summary>
 <table>
   <thead>
     <tr>
@@ -52,8 +52,9 @@ Currently pursuing my Masters in Data Science at [University of Illinois at Urba
     </tr>
   </tbody>
 </table>
+<!-- 
 </details>
-<!-- end work experience section -->
+end work experience section -->
 
 
 <p align="center"> 
