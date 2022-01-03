@@ -22,8 +22,8 @@ Currently pursuing my Masters in Data Science at [University of Illinois at Urba
 <br/>
 <br/>
 
-<!-- start work experience section
-<details> -->
+<!-- start work experience section-->
+<details> 
 <b> Professional Experience: </b></summary>
 <table>
   <thead>
@@ -55,9 +55,9 @@ Currently pursuing my Masters in Data Science at [University of Illinois at Urba
     </tr>
   </tbody>
 </table>
-<!-- 
+ 
 </details>
-end work experience section -->
+<!--end work experience section -->
 
 
 <p align="center"> 
