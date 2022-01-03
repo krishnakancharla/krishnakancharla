@@ -14,7 +14,7 @@ Currently pursuing my Masters in Data Science at [University of Illinois at Urba
 ⚡ Technologies I am proficient in: **Python3 | SQL | HTML | CSS | AWS | Docker | Jenkins | Kubernetes**
 
 - 🔭 I am currently working on  **End-to-End Machine Learning Application Development**
-- 🌱 The tech I am currently working with : **AWS, Python, Tensorflow, CSS, Flask**
+- 🌱 The tech I am currently working with : **AWS, SQL, Python, Tensorflow, CSS, Flask**
 - 💬 Ask me about anything, I am happy to help
 - 👨 Know more about me at [Medium](https://krishnakancharla.medium.com/) 
 - 🌐 Visit my :boom: [porfolio website](https://krishnkancharla.github.io/) for complete background and contact.
